@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kane!</h1>
 <h3 align="center">Web Developer from North Carolina</h3>
 
-<p align="center">
+
 - A.S. in Applications Development, 2021
 - Currently pursuing B.S. in Computer Science 
 - Frontend Developer at **River & Farm Creative**
 - Self-taught Web Developer 
 - Pronouns: He/Him
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
