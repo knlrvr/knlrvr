@@ -16,9 +16,8 @@
   </a>
 </p>
 
-
+- Currently pursuing B.S. in Computer Science, UNC
 - A.S. in Applications Development, 2021
-- Currently pursuing B.S. in Computer Science 
 - Frontend Developer at **River & Farm Creative**
 - Self-taught Web Developer 
 - Pronouns: He/Him
