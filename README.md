@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Kane!</h1>
-<h3 align="center">Web Developer from North Carolina</h3>
+<h3 align="center">Web Developer | North Carolina</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kane-lariviere/"> 
