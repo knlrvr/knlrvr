@@ -18,7 +18,9 @@
 
 - Currently pursuing B.S. in Computer Science, UNC
 - A.S. in Applications Development, 2021
-- Frontend Developer at **River & Farm Creative**
+- Frontend Developer 
+- UI/UX Designer
+- Artist
 - Pronouns: He/Him
 
 
