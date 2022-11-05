@@ -16,7 +16,6 @@
   </a>
 </p>
 
-- Currently pursuing B.S. in Computer Science, UNC
 - A.S. in Applications Development, 2021
 - Frontend Developer 
 - UI/UX Designer
