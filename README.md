@@ -8,9 +8,6 @@
   <a href="https://twitter.com/kanelariviere_"> 
     <img alt="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kanelarivieresucks/"> 
-    <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.twitch.tv/kanolariv"> 
     <img alt="Follow on Twitch" src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
