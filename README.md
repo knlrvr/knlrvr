@@ -15,7 +15,7 @@
 
 - A.S. in Applications Development, 2021
 - Software Engineer
-- Frontend Developer 
+- Full Stack Developer 
 - UI/UX Designer
 - Artist
 - Pronouns: He/Him
