@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/kane-lariviere/"> 
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/kanelariviere_"> 
+  <a href="https://twitter.com/knlrvr"> 
     <img alt="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/kanolariv"> 
