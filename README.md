@@ -14,6 +14,7 @@
 </p>
 
 - A.S. in Applications Development, 2021
+- Software Engineer
 - Frontend Developer 
 - UI/UX Designer
 - Artist
