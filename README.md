@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Kane!</h1>
-<h3 align="center">Web Developer | Charlotte, NC </h3>
+<h3 align="center">Software Engineer | Charlotte, NC </h3>
 
 
 <p align="center">
