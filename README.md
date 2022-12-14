@@ -13,14 +13,13 @@
   </a>
 </p>
 
-<p align="center">
 - A.S. in Applications Development, 2021
 - Software Engineer
 - Full Stack Developer 
 - UI/UX Designer
 - Artist
 - Pronouns: He/Him
-</p>
+
 
 <h3 align="center"> Languages and Tools </h3>
 <h4 align="center"> Front End <h4>
