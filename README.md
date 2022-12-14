@@ -14,22 +14,22 @@
 </p>
 
 <p align="center">
-- A.S. in Applications Development, 2021
+Software Engineer
 </p>
 <p align="center">
-- Software Engineer
+Full Stack Developer 
 </p>
 <p align="center">
-- Full Stack Developer 
+UI/UX Designer
 </p>
 <p align="center">
-- UI/UX Designer
+Artist
 </p>
 <p align="center">
-- Artist
+A.S. in Applications Development, 2021
 </p>
 <p align="center">
-- Pronouns: He/Him
+Pronouns: He/Him
 </p>
 
 
