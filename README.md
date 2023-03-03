@@ -52,4 +52,4 @@ Pronouns: He/Him
 </p>
 
   <br /><br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knlrvr&show_icons=true&locale=en" alt="knlrvr" /></p>
+
