@@ -22,9 +22,6 @@ Software Engineer
 Full Stack Developer 
 </p>
 <p align="center">
-UI/UX Designer
-</p>
-<p align="center">
 Artist
 </p>
 <p align="center">
