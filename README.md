@@ -13,9 +13,9 @@ My name is Kane Lariviere. I'm a self taught developer & designer, and I'm curre
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/kane-lariviere), [Twitter](https://twitter.com/knlrvr), [Twitch](https://twitch.tv/kanolariv) or [Instagram](https://instagram.com/kanelarivieresucks)
 
 ## 
-<p align="center">
+
 ![knlrvr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=knlrvr&theme=highcontrast&hide_border=true)
-</p>
-<p align="center">
+
+
 ![knlrvr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knlrvr&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-</p>
+
