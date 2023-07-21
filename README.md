@@ -5,8 +5,8 @@ My name is Kane Lariviere. I'm a self taught developer & designer, and I'm curre
 
 ##
 - 💻 Currently working as a freelance **Full Stack Developer**
-- 🐍 Expanding my knowledge by learning **Python** & **.NET**
 - 📚 Attending **WGU** for Computer Science
+- 🐍 Expanding my knowledge by learning **Python** & **.NET**
 - 🗡️ D&D Nerd
 - 🎸 Artist
 - 💬 Ask me about web development, video games, or music!
