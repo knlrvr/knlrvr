@@ -4,13 +4,13 @@
 My name is Kane Lariviere. I'm a self taught developer & designer, and I'm currently attending university for my Bachelor's degree in Computer Science. I have a fierce passion for development, and a deep understanding that design drives everything. 
 
 ##
-- 💻 Currently working as a freelance **Full Stack Developer**
-- 📚 Attending **WGU** for Computer Science
-- 🐍 Expanding my knowledge by learning **Python** & **.NET**
-- 🗡️ D&D Nerd
-- 🎸 Artist
-- 💬 Ask me about web development, video games, or music!
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/kane-lariviere), [Twitter](https://twitter.com/knlrvr), [Twitch](https://twitch.tv/kanolariv) or [Instagram](https://instagram.com/kanelarivieresucks)
+- 💻  Currently working as a freelance **Full Stack Developer**
+- 📚  Attending **WGU** for Computer Science
+- 🐍  Expanding my knowledge by learning **Python** & **.NET**
+- 🗡️  D&D Nerd
+- 🎸  Artist
+- 💬  Ask me about web development, video games, or music!
+- 📫  Reach me on [LinkedIn](https://linkedin.com/in/kane-lariviere), [Twitter](https://twitter.com/knlrvr), [Twitch](https://twitch.tv/kanolariv) or [Instagram](https://instagram.com/kanelarivieresucks)
 
 ## 
 
