@@ -10,7 +10,7 @@ My name is Kane Lariviere. I'm a self taught developer & designer, and I'm curre
 - 🗡️ D&D Nerd
 - 🎸 Artist
 - 💬 Ask me about web development, video games, or music!
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/kane-lariviere), [Twitter](https://twitter.com/knlrvr), [Twitch](https://twitch.tv/kanolariv) or [Instagram](https://instagram.com/kanelarivieresucks)
+- 📫 Reach me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://linkedin.com/)
 
 ## 
 
