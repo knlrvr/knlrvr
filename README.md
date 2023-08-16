@@ -11,7 +11,7 @@ My name is Kane Lariviere. I'm a self taught developer & designer, and I'm curre
 - 🐍 Expanding my knowledge by learning **Python**
 - 🗡️ D&D Nerd
 - 🎸 Artist
-- 💬 Ask me about web development, video games, or music!
+- 💬 Don't be afraid to reach out. Ask me about web development, video games, music, or whatever you'd like to talk about!
 ##
 
 <p align="center" width="100%">
