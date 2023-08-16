@@ -18,6 +18,6 @@ My name is Kane Lariviere. I'm a self taught developer & designer, and I'm curre
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=knlrvr&theme=highcontrast&hide_border=true" width="80%" height="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knlrvr&layout=donut)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knlrvr&layout=donut)]" />
 </p>
 
