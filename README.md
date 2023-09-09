@@ -14,7 +14,6 @@ My name is Kane Lariviere. I'm a self taught developer & designer, and I'm curre
 - 💬 Don't be afraid to reach out. Ask me about web development, video games, music, or whatever you'd like to talk about!
 ##
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=knlrvr&theme=highcontrast&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knlrvr&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
