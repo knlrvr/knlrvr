@@ -6,7 +6,7 @@ My name is Kane Lariviere. I'm a self taught developer & designer, and I'm curre
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kane-lariviere) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/knlrvr) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/kanolariv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kanelarivieresucks) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@kanelarivieresucks) 
 
 ## 
-- 💻 Currently working as a freelance **Full Stack Developer** and **IT Help Desk Analyst** 
+- 💻 Currently working as a freelance **Full Stack Developer**
 - 📚 Attending **WGU** for Computer Science
 - 🐍 Expanding my knowledge by learning **Python**
 - 🗡️ D&D Nerd
