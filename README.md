@@ -1,4 +1,4 @@
-![logo-new](https://github.com/knlrvr/knlrvr/assets/91632194/061941c4-0858-483b-8ab3-f4954201e34a)  
+![gh-head](https://github.com/knlrvr/knlrvr/assets/91632194/4c5754ea-ab69-442f-8145-615257ef0f3f)
 
 ## Hello! 👋🏼
 My name is Kane Lariviere. I'm a (mostly) self-taught developer & designer, and I'm currently attending WGU for my Bachelor's degree in Computer Science. I have a fierce passion for tech, and a deep understanding that design drives everything. My work is focused on building engaging & memorable experiences for the web while advocating for accessibility, affordability, & equity.
