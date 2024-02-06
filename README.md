@@ -9,7 +9,7 @@ My name is Kane Lariviere. I'm a developer & designer, and I'm currently attendi
 - 💻 Currently working as a freelance **Full Stack Developer**
 - 📚 Attending **WGU** for Computer Science
 - 🕹️ LeetCode hater but I'll do it
-- 💡 Expanding my knowledge by learning **Java** ☕️ & **Python** 🐍
+- 💡 Expanding my knowledge by learning **Java** ☕️ & relearning **Python** 🐍
 - 🗡️ D&D Nerd
 - 🎸 Artist
 - 💬 Don't be afraid to reach out. Ask me about web development, video games, music, or whatever you'd like to talk about!
