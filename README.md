@@ -3,9 +3,6 @@
 ## Hello! 👋🏼
 Hi! I'm Kane. I'm a software developer based in the US. My work is focused on building engaging & memorable experiences for the web while advocating for accessibility, affordability, & equity.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kane-lariviere) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/knlrvr) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/knlrvr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kanelarivieresucks) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@kanelarivieresucks) 
-
-## 
 - 💻 Currently working as a freelance **Full Stack Developer**
 - 📚 Attending **WGU** for Computer Science
 - 🕹️ LeetCode hater but I'll do it
@@ -13,7 +10,12 @@ Hi! I'm Kane. I'm a software developer based in the US. My work is focused on bu
 - 🗡️ D&D Nerd
 - 🎸 Artist
 - 💬 Don't be afraid to reach out. Ask me about web development, video games, music, or whatever you'd like to talk about!
-##
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kane-lariviere) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/knlrvr) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/knlrvr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kanelarivieresucks) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@kanelarivieresucks) 
+
+---
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=knlrvr&theme=highcontrast&hide_border=true" />
 
