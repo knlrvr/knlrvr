@@ -1,4 +1,4 @@
-![LI Cover](https://github.com/knlrvr/knlrvr/assets/91632194/b5a65065-d00d-4df4-948d-5749e048d744)
+![knlrvr-og](https://github.com/knlrvr/knlrvr/assets/91632194/11187ce0-e0c2-486c-8262-3ec1bccfd44e)
 
 ## Hello! 👋🏼
 Hi! I'm Kane. I'm a software developer based in the US. My work is focused on building engaging & memorable experiences for the web while advocating for accessibility, affordability, & equity.
