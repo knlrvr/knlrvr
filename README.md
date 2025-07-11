@@ -3,7 +3,7 @@
 ## Hello! 👋🏼
 Hi! I'm Kane. I'm a software developer based in the US. My work is focused on building engaging & memorable experiences for the web while advocating for accessibility, affordability, & equity.
 
-- 💻 Currently working as a software engineer at **Fenili Apparel**
+- 💻 Currently working as a QA Analyst at **Rather Outdoors**
 - 📚 Attending **WGU** for Computer Science
 - 🕹️ LeetCode hater but I'll do it
 - 💡 Expanding my knowledge by learning **Go** 🐿️
