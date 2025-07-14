@@ -6,7 +6,6 @@ Hi! I'm Kane. I'm a software engineer based in the US. My work is focused on bui
 - 💻 Currently working as a QA Analyst at **Rather Outdoors**
 - 📚 Attending **WGU** for Computer Science
 - 🕹️ LeetCode hater but I'll do it
-- 💡 Expanding my knowledge by learning **Go** 🐿️
 - 🗡️ D&D Nerd
 - 🎸 Artist
 - 💬 Don't be afraid to reach out. Ask me about web development, video games, music, or whatever you'd like to talk about!
