@@ -1,4 +1,4 @@
-![og](https://github.com/knlrvr/knlrvr/assets/91632194/979b2d5b-c0ea-480f-865a-ad277466d873)
+<img width="1920" height="1080" alt="twitter-image" src="https://github.com/user-attachments/assets/29673604-ea80-44bf-9ee6-30042b9d00a2" />
 
 ## Hello! 👋🏼
 Hi! I'm Kane. I'm a software engineer based in the US. My work is focused on building engaging & memorable experiences for the web while advocating for accessibility, affordability, & equity.
