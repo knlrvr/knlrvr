@@ -1,7 +1,7 @@
 <img width="1920" height="1080" alt="twitter-image" src="https://github.com/user-attachments/assets/29673604-ea80-44bf-9ee6-30042b9d00a2" />
 
 ## Hello! 👋🏼
-Hi! I'm Kane. I'm a software engineer based in the US. My work is focused on building engaging & memorable experiences for the web while advocating for accessibility, affordability, & equity.
+Hi! I'm Kane. I'm a software engineer/qa analyst based in the US. My work is focused on building engaging & memorable experiences for the web while advocating for accessibility, affordability, & equity.
 
 - 💻 Currently working as a QA Analyst at **Rather Outdoors**
 - 📚 Attending **WGU** for Computer Science
