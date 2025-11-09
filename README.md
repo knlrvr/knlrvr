@@ -8,6 +8,8 @@ Hi! I'm Kane. I'm a software engineer based in the US. Focused on crafting engag
 - 🕹️ LeetCode hater but I'll do it
 - 🗡️ D&D Nerd
 - 🎸 Artist
+  - [Spotify](https://open.spotify.com/artist/61pGDGhColE2NO8XJ03xMZ)
+  - [Apple Music](https://music.apple.com/us/artist/glasslight/1676265913)
 - 💬 Don't be afraid to reach out. Ask me about web development, video games, music, or whatever you'd like to talk about!
 
 ---
