@@ -3,7 +3,7 @@
 ## Hello! 👋🏼
 Hi! I'm Kane. I'm a software engineer based in the US. Focused on crafting engaging and memorable experiences while exploring sustainability and advocating for a greener web.
 
-- 💻 Currently working as a QA Automation Engineer at **Rather Outdoors**
+- 💻 Currently working as a QA Analyst at **Rather Outdoors**
 - 📚 Attending **WGU** for Computer Science
 - 🕹️ LeetCode hater but I'll do it
 - 🗡️ D&D Nerd
